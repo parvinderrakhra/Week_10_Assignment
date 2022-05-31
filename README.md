@@ -1,5 +1,5 @@
 # Week_10_Assignment - Unit 10—A Yen for the Future
-![Uploading unit-10-readme-photo.jpg…]()
+![unit-10-readme-photo](https://user-images.githubusercontent.com/85688247/171132556-e64ecc4a-fdcb-4d09-8f33-07199dad0bd7.jpg)
 
 In this project I aim to test several time series tools in order to predict future movements in the value of the Canadian dollar vs. the Japanese Yen. 
 
